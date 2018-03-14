@@ -13,7 +13,7 @@ En décembre 1989 pendant la semaine de Noël, les locaux de son entreprise éta
 Il décide alors d'opter pour le développement d'un interpréteur de langage de programmation issu de ABC qui plairaît aux hackers issus du monde Unix/C.
 	  
 ## Particularités
-   - Tout est dictionnaire
+   - Tout est objet
    - un langage intuitif pouvant rivaliser avec les plus utilisés
    - Open Source afin que tout le monde puisse y contribuer
    - un code compréhensible car en anglais
@@ -40,6 +40,7 @@ Il décide alors d'opter pour le développement d'un interpréteur de langage de
    
 ## IDE
    - PyCharm
+   - VsCode
    - Vim
    - Atom
    
@@ -56,7 +57,7 @@ Il décide alors d'opter pour le développement d'un interpréteur de langage de
 
 ## Inconvénients :
 - Indentation importante
-- Lisbilité laborieuse sur de gros projets
+- Lisibilité laborieuse sur de gros projets
 - Nécessite d'être rigoureux sur les TU car il n'y a pas de phase de compilation
 - Industrialisation fastidieuse
 - Migration Python 2 vers Python 3
