@@ -10,7 +10,7 @@ Python est un langage de programmation objet, multi-paradigme et multiplateforme
 	
 ## Création 
 En décembre 1989 pendant la semaine de Noël, les locaux de son entreprise étant fermés, il cherche un projet sur lequel travailler pour s'occuper. 
-Il décide alors d'opter pour le développement d'un interpréteur de langage de programmation issu de ABC qui plairaît aux hackers issus du monde Unix/C.
+Il décide alors d'opter pour le développement d'un interpréteur de langage de programmation issu de ABC qui plaîrait aux hackers issus du monde Unix/C.
 	  
 ## Particularités
    - Tout est objet
