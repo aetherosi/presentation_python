@@ -27,7 +27,7 @@ Il décide alors d'opter pour le développement d'un interpréteur de langage de
    
 ## Versions
    - 0.9 : 20 février 1991
-   - 1.0 : Python 1.0 - Janvier 1994
+   - 1.0 : Python 1.0 - janvier 1994
    - 2.0 : Python 2.0 - 16 octobre 2000
    - 3.0 : Python 3.0 - 3 décembre 2008
    
