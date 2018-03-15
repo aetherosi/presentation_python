@@ -26,10 +26,10 @@ Il décide alors d'opter pour le développement d'un interpréteur de langage de
    - Fait partie du top 10 des langages les plus prisés dans les offres d'emploi
    
 ## Versions
-   - 0.9 : February 20, 1991
-   - 1.0 : Python 1.0 - January 1994
-   - 2.0 : Python 2.0 - October 16, 2000
-   - 3.0 : Python 3.0 - December 3, 2008
+   - 0.9 : 20 février 1991
+   - 1.0 : Python 1.0 - Janvier 1994
+   - 2.0 : Python 2.0 - 16 octobre 2000
+   - 3.0 : Python 3.0 - 3 décembre 2008
    
 ## Frameworks
    - Flask, Django, PySpark, Scikit-learn, SciPy 
